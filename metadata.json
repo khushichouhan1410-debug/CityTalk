@@ -1,0 +1,6 @@
+{
+  "name": "CityTalk",
+  "description": "Hyper-local community feed for local connections, business promotions, and civic society issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
